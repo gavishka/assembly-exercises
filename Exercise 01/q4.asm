@@ -1,9 +1,6 @@
-TITLE summation of integers of array(ques4.asm)
+TITLE summation of integers of array(q4.asm)
 ;description- This program displays items as signed integers, hex values and displays the total of the numbers in array
-;Name- Sachini Fernando
-;Assignmnet 3
-;problem number 4
-;date coded- 2017/07/21
+
 ;JAVA PROGRAM
 ; import java.lang.*;
 ; public class arrayNum {
