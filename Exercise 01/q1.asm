@@ -1,9 +1,5 @@
-TITLE calculations(firstques.asm)
+TITLE calculations(q1.asm)
 ;description- This program displays the answers for each equation after getting values for P,Q,R,S,T from user
-;Name- Sachini Fernando
-;Assignmnet 3
-;problem number 1
-;date coded- 2017/07/21
 
 ;JAVA PROGRAM
 ; public class ass3ques1 {
