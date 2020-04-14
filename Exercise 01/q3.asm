@@ -1,9 +1,5 @@
 TITLE fibonnaci number series(thirdques.asm)
 ;description- This program displays the first thirty values in fibonacci number series
-;Name- Sachini Fernando
-;Assignmnet 3
-;problem number 3
-;date coded- 2017/07/21
 
 ;JAVA PROGRAM
 ; public class fibonacci {
