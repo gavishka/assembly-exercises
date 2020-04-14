@@ -1,9 +1,5 @@
 ;Title linking array items 
 ;This program print values of the data file considering the indexes given
-;Name- Sachini Fernando
-;Assignment 4
-;problem number 1
-;date - 2017/08/01
 
 ;pseudo code---
 	;get the name of file from user
