@@ -1,9 +1,6 @@
 ;Title- CrazyArt Program
 ;This program geberates an image by printing a character at random locations within a defined area of the console window
-;Name- Sachini Fernando
-;Assignment 4
-;problem number 3
-;date - 2017/08/01
+
 ;pseudo code- 
 	;Get the data from user
 	;start a loop 
