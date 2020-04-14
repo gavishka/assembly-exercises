@@ -35,10 +35,10 @@ Your output should look something like:
 
 B) Write a program which asks the user for the number of rows in a pyramid and then constructs a pyramid using asterisk with the specified value. The first row of the pyramid, which we will call row 0, will have 1 asterisk, the second row (called row 1), will have 3 asterisks, row 2 will have 5 asterisks, etc. The number of asterisks in a given row called row x will therefore be 2 * x +1. The output would look something like this:
 Sample output 1: (taken from Eclipse)
-![](ex1pic1.jpg)
+![](images/ex1pic1.png)
 
 Sample output 2: (taken from Visual Studio)
-![](ex1pic2.jpg)
+![](images/ex1pic2.png)
 
 Hint: To print a single character, put the character in the AL register and call WriteChar.
 mov al, '*' and then call WriteChar
