@@ -1,9 +1,5 @@
 ;Title BetterRandomRange  
 ;This program generate a random number from the lower number to the upper number
-;Name- Sachini Fernando
-;Assignment 4
-;problem number 2
-;date - 2017/08/01
 
 ;pseudo code--
 	;get the values for upper bound and lower bound from user
