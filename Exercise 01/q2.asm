@@ -1,9 +1,5 @@
-TITLE Asterisk pyramid(secondques.asm)
+TITLE Asterisk pyramid(q2.asm)
 ;description- This program displays a pyramid of asterisks with rows specified by user
-;Name- Sachini Fernando
-;Assignmnet 3
-;problem number 2
-;date coded- 2017/07/21
 
 ;JAVA PROGRAM
 ; public class AssemblyTest {
