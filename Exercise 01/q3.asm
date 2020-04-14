@@ -1,4 +1,4 @@
-TITLE fibonnaci number series(thirdques.asm)
+TITLE fibonnaci number series(q3.asm)
 ;description- This program displays the first thirty values in fibonacci number series
 
 ;JAVA PROGRAM
