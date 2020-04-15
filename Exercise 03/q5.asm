@@ -1,7 +1,4 @@
 ;This program shows how to calculate x=n mod y
-;Assignment 5
-;problem number 5/(e)
-;date - 2017/08/07
 
 ;pseudo code---
 	;get the number n from user
