@@ -1,7 +1,4 @@
 ;This program displays the sum of array elements within a given range
-;Assignment 5
-;problem number 1/(a)
-;date - 2017/08/07
 
 ;pseudo code---
 	;getting the starting index from user
