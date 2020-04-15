@@ -1,8 +1,4 @@
 ;This program receives a decimal fraction number and converts to binary and print it in a format
-;Assignment 7
-;problem number 2
-;name- Sachini Fernando
-;date - 2017/08/17
 
 ;pseudo code---
 	;ask user to enter decimal floating point value
