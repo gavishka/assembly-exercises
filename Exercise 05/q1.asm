@@ -1,8 +1,4 @@
 ;This program receives a value for edge and calculates the area and volume of Icosahedron
-;Assignment 7
-;problem number 1
-;name- Sachini Fernando
-;date - 2017/08/17
 
 ;pseudo code---
 	;ask user to enter edge value
