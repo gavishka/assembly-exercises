@@ -20,7 +20,10 @@ f) SNaN – the signalling NAN.
 You can load these values into predefined variables using the binary patterns for each variable.
 
 .data
+
   NegZero LABEL REAL4
   X DWORD 100000000000000000000000000000
+  
 .code
+
   FLD NegZero
