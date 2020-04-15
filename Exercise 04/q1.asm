@@ -1,8 +1,4 @@
 ;This program displays a menu of options where user can manipulate an array of values
-;Assignment 6
-;problem number 1
-;name- Sachini Fernando
-;date - 2017/08/14
 
 ;pseudo code---
 	;display the menu and get the value entered by user
