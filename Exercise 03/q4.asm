@@ -1,8 +1,4 @@
 ;This program displays unsigned 8bit binary value in decimal format
-;Name- Sachini Fernando
-;Assignment 5
-;problem number 4/(d)
-;date - 2017/08/07
 
 ;pseudo code---
 	;get the number from user
