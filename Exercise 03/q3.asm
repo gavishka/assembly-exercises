@@ -1,7 +1,4 @@
 ;This program shows how to calculate val1 = (val2/val3) * (val1+val2)
-;Assignment 5
-;problem number 3/(c)
-;date - 2017/08/07
 
 ;pseudo code---
 	;get the val 1 from user
