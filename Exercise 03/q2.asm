@@ -1,7 +1,4 @@
 ;This program encrypts the string entered by user and decrypts
-;Assignment 5
-;problem number 2/(b)
-;date - 2017/08/07
 
 ;pseudo code---
 	;getting the string from user and storing it
