@@ -37,7 +37,7 @@ H. Your program must demonstrate both INVOKE and CALL operations for executing p
 I. All INVOKE operations must have matching PROTO declarations.
 
 
-Q2 Expression Evaluation
+Q2: Expression Evaluation
 Prompt the user for each of the required values (A thru E) and present the formula along with the
 answer. Have the program loop to repeat the 5 times- collecting new numbers and performing the
 calculation again using the new numbers.
