@@ -1,8 +1,4 @@
 ;This program calculates a formula
-;Assignment 6
-;problem number 2
-;name- Sachini Fernando
-;date - 2017/08/14
 
 ;pseudo code---
 	;get the values from A-E
