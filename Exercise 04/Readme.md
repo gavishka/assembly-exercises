@@ -16,16 +16,24 @@ For option #5, the printed values should be signed integers, comma separated, wi
 Additional Requirements:
 
 A. Each menu option (except exit) should call a procedure which is passed the array of numbers. Some procedures will call other procedures as described above. Use a separate procedure for each task. Even printing the menu and collecting a valid response can be a procedure called by the main method in a loop. The loop will use the return value to determine what procedure to call next or managed the exit of the program if zero is entered.
+
 B. Only option#5 will print the array values – but every other procedure should provide some appropriate message when complete.
+
 C. All procedures must preserve register values whenever possible.
+
 D. Any procedure returning an answer must do so in either the EAX register or using an in-out stack parameter.
+
 E. No procedure can directly reference an array. Only use indirect operands with the offset and size of the array being passed as a parameter on the stack.
+
 F. Your procedures must demonstrate both the use of parameter passing using unnamed
 parameter values (refer to these using only the EBP register) and named parameters created
 using a parameter list.
+
 G. Your procedures must demonstrate creating local unnamed stack variables (referred to using
 EBP) and local variables created using LOCAL.
+
 H. Your program must demonstrate both INVOKE and CALL operations for executing procedures.
+
 I. All INVOKE operations must have matching PROTO declarations.
 
 
